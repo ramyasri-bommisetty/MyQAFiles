@@ -1,0 +1,29 @@
+<xml>
+	<Cars>
+		<Name>Nissan</Name>
+		<Price>23,000</Price>
+		<Automatic>No</Automatic>
+		<Warranty>5kMiles</Warranty>
+
+		<Name>toyato</Name>
+		<Price>25,000</Price>
+		<Automatic>No</Automatic>
+		<Warranty>7kMiles</Warranty>
+
+		<Name>Honda</Name>
+		<Price>30,000</Price>
+		<Automatic>No</Automatic>
+		<Warranty>10kMiles</Warranty>
+
+		<Name>BMV</Name>
+		<Price>250,000</Price>
+		<Automatic>No</Automatic>
+		<Warranty>30kMiles</Warranty>
+		
+		<Name>Tesla</Name>
+		<Price>75,000</Price>
+		<Automatic>yes</Automatic>
+		<Warranty>50kMiles</Warranty>
+
+	</Cars>
+</xml>

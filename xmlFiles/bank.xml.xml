@@ -1,0 +1,33 @@
+<xml>
+	<Bank>
+		<Bankname>Bofa</Bankname>
+		<Noofemployes>20</Noofemployes>
+		<Noofcutomers>50</Noofcutomers>
+		<profits>50%</profits>
+		<Bankname>bb&t</Bankname>
+		<Noofemployes>15</Noofemployes>
+		<Noofcutomers>40</Noofcutomers>
+		<profits>40%</profits>
+		<Bankname>WellsFargo</Bankname>
+		<Noofemployes>50</Noofemployes>
+		<Noofcutomers>100</Noofcutomers>
+		<profits>70%</profits>
+		<Bankname>Oapitalone</Bankname>
+		<Noofemployes>20</Noofemployes>
+		<Noofcutomers>40</Noofcutomers>
+		<profits>45%</profits>
+		<Bankname>Fith third bank</Bankname>
+		<Noofemployes>15</Noofemployes>
+		<Noofcutomers>40</Noofcutomers>
+		<profits>50%</profits>
+		<Bankname>City Bank</Bankname>
+		<Noofemployes>20</Noofemployes>
+		<Noofcutomers>300</Noofcutomers>
+		<profits>40%</profits>
+		
+		
+		
+		
+		
+	</Bank>
+</xml>

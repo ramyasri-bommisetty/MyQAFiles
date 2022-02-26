@@ -1,0 +1,32 @@
+{
+	"jewelry" : [
+		{
+			"Name" : "gold",
+			"Designs" : "good",
+			"Durability" : "long",
+			"TimeFomaking" : "Onemonth",
+			"Returnvalue" : "upto80%"
+		},
+		{
+			"Name" : "Silver",
+			"Designs" : "Average",
+			"durability" : "Average",
+			"TimeForMaking" : "3weeks",
+			"ReturnValue" : "upto70%"
+		},
+		{
+			"Name" : "Copper",
+			"designs" : "Limited",
+			"Durability" : "Average",
+			"TimeForMaking" : "2weeks",
+			"Returnvalue" : "upto60%"
+		},
+		{
+			"Name" : "Artifical",
+			"Designs" : "lotOfDesigns",
+			"Durability" : "belowAverage",
+			"TimeForMaking" : "1week",
+			"return value" : "0%"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"Bank" :[
+		{
+			"BankName" :"Bofa",
+			"Noofemployees" : 20,
+			"Noofcutomers" : 50,
+			"profits" :"50%"
+		},
+
+		{
+			"BankName" :"BB&T",
+			"Noofemployees" : 15,
+			"Noofcutomers" : 40,
+			"profits" :"40%"
+		},
+
+		{
+			"BankName" :"WellsFargo",
+			"Noofemployees" : 50,
+			"Noofcutomers" : 100,
+			"profits" :"70%"
+		},
+
+		{
+			"BankName" :"CapitalOne",
+			"Noofemployees" : 20,
+			"Noofcutomers" : 40,
+			"profits" :"45%"
+		},
+		{
+			"BankName" :"FithThirdBank",
+			"Noofemployees" : 15,
+			"Noofcutomers" : 40,
+			"profits" :"50%"
+		},
+		{
+			"BankName" :"CityBank",
+			"Noofemployees" : 20,
+			"Noofcutomers" : 30,
+			"profits" :"40%"
+		},
+
+
+
+
+
+	]
+}
