@@ -19,11 +19,10 @@
 		<Price>250,000</Price>
 		<Automatic>No</Automatic>
 		<Warranty>30kMiles</Warranty>
-		
+
 		<Name>Tesla</Name>
 		<Price>75,000</Price>
 		<Automatic>yes</Automatic>
 		<Warranty>50kMiles</Warranty>
-
 	</Cars>
 </xml>
