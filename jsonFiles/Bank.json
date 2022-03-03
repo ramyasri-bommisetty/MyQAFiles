@@ -41,5 +41,13 @@
 			
 			
 		},
+		{
+			"BankName" :"visa",
+			"Noofemployees" : 10,
+			"Noofcutomers" : 30,
+			"profits" :"30%"
+		}
+		
+		
 	]
 }
