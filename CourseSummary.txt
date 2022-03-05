@@ -29,6 +29,7 @@
 	Properties
 5. maven 
 6. Github
+		git push, pull
 7. HTML css js
 8. HTTP
 9. Testing
