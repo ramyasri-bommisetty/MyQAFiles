@@ -1,0 +1,79 @@
+
+
+1. Computer basics
+	Windows OS
+	File explorer	
+	Task Manager
+	Contorl panel
+2. Files
+	absolute, relative paths
+	different types of files csv, xml, json, yaml
+3. Computer Networks
+	ip address, port number
+	networking devices
+4. Java
+	compiling thru command promt
+		pacakges, -d -cp 
+	basic program
+	operators
+	if else, switch branching
+	looping for, while
+	Inheritance, encapsualtion, java beans
+	abstract, static, interface
+	arrays
+	Special classes String,wrapper 
+	Algorithms - stacks, queue
+	Binary search, sorting 
+	Collections - List, Set, Map
+	Files
+	Properties
+5. maven 
+6. Github
+7. HTML css js
+8. HTTP
+9. Testing
+	test cases
+10. Testing Framework - testNG
+11. Logging framework
+12.Regex
+13. 
+
+Back grounds:
+  ----  write manual test cases for autotools
+  ----  Automate these test cases using cucumber selenium
+
+  ------   test execution and filing bugs
+  ----   ISTQB --
+  ----     review and corrections
+  ----  missing or incomplete topics	
+  ---- revising the topics already completed 
+
+  ---   Jenkins and CI/CD 
+  ---- Database SQL
+  ------  linux practises
+  ---  web services 
+  		rest assured, karate 
+  		rest apis, soap apis
+  ---  autotmation
+  		angular js --- protractor
+  		mobile -- appium
+
+  		
+RegEx
+Cucumber
+Selenium   -- Xpath
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
