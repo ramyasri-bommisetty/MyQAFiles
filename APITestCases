@@ -1,0 +1,265 @@
+Requirements are in waterfall model they get requirements from bussiness analyst and devolpers develop it and testers test it
+in agile model we get user stories and we write test cases
+
+ListUsers:
+ 
+Given: per page ,no more than 6 person data
+When:when u send get request
+Then:display all contents in Json with each person seperately
+
+Given the list user api is invoked
+When we inspect the per_page and number of users in the respone
+Then the number of users should be equal to per_page value
+
+== call list users
+-- note the number of users returned
+-- note the per_page value
+-- the number of user should be equal to per page value
+..
+
+Test cases:
+check if the page has more than 6 per page 
+check by giving more than 6 like 7,8
+check whether the output is in json file
+
+
+Given:when u give get request for list users
+when :send get request and save
+Then: display all content in json 
+
+check whether after giving url send and see the results with out saving
+check after saving it and see the results
+check if content is in json or not 
+select the auto format and see the results
+
+
+Given: in get request change the format to xml
+When :send the request
+Then: output should be in xml
+
+
+after providing url change the format to xml and send request with out saving
+after saving see the result and sending result in json
+output is in XML
+
+Single User:    
+Given: after giving url
+When: sending request 
+Then: the output ahould be only one user data
+
+After sending url and send request the result is only user with out saving
+after saving and sending url the output is one user 
+and changing the user id and the output is one user only
+select the default format ... the result is in json format
+
+
+Given: in get request change the format to HTML
+When :send the request
+Then: output should be in HTML
+
+after providing url change the format to HTML and send request with out saving
+after saving see the result and sned the result the result is in json
+output is in HTML
+
+
+
+Given: 
+When:
+Then:
+
+
+create:
+
+Given: create is a post request after providing url
+When: give the body and send the request
+Then: output should be in json with  create body of user
+
+
+After providing URL and send the body in json and send request with out saving
+result : ouput in user details with body in json
+After providing URL and send the body in json and send request after saving
+result : ouput in user details with body in json
+cheking with out providing body
+results: output came with missing some details 
+cheking providing body with xml
+results: output came with missing some details 
+
+Given: in get request change the format to text
+When :send the request
+Then: output should be in text
+
+after providing url change the format to text and send request with out saving result will be in text
+after saving see the result json
+output is in text
+
+
+
+Single user not found
+Given: a user with get rerquest after providing url 
+When:send the results
+Then:the ouput should be empty
+
+
+
+After providing the url and select get request send the get request with out saving result is empty
+after saving the details and send the request the result is empty
+
+changing the user id and checking since its not a valid user the result is empty
+
+
+
+
+
+
+list(resource)
+Given: send the url with get request 
+When: send the results
+Then: out put should be with list of resources
+
+After providing the url and select the get request with out saving the result is lists of resouces
+after saving the details and send request the result is  list of resources
+checked if page has 6 only and format is json since selected default
+
+
+
+
+Single resource not found
+
+
+Given:send the url with get request 
+When:send the results
+Then:the output should be empty
+
+
+After providing the url and selct the get request with out saving the result is empty
+after saving the details and send the request result is empty
+checking with different id and output is empty since its not valid user id
+checkind with valid user id the output is user details
+
+
+
+Update:
+
+Given: send the url with put request  
+When: send the body and send key
+Then: the output should be user details
+
+
+After providing the url and put request with body the with out saving output is in one user detail in json
+checking with saving the details the result is one user in Json
+checking with out giving the body the result the user missing details
+
+
+
+
+Update :
+
+Given: send the url with patch request
+When: send the body and send key
+Then: the output be one user detail
+
+
+After providing the url and patch request with body without saving the output is one user detail in json
+checkig with saving the details the result is one user in json
+checking with out body the result is the user with missing details 
+
+
+Delete:
+
+Given: send the url with delete request 
+When: send it
+Then:the output should be empty
+
+
+After providing the url and delete request with out saving the output is empty
+checking with saving the details the result is empty
+cheking with diifferent user id output is empty
+
+
+
+
+Registered sucessful
+
+Given: send the url and select post 
+When: send body
+Then:the output should be useer detail it means register sucessfully
+
+
+After proving the Url and seleting the post and providing body with out saving the output is user detail in json
+checking after saving the details the result is the user detail in json
+checking with out body the result is error
+
+
+
+Register unsucessful:
+
+Given: send the url and select post
+When: send body
+Then:the result be error the it register unsuccesful
+
+After proving the Url and seleting the post and providing body with out saving the output is error
+checking after saving the details the result is error
+checking with out body the result is error
+
+Login sucessful:
+
+Given: send the url select post
+When: send body
+Then: the rsult be a token in json then it login sucessful
+
+
+After providing the url and select the post and providing the body with out saving the result is token in json
+checking after saving the detaisl the result is token in json format
+checking with out body the result is error
+
+
+Login unsucessful:
+
+Given: send the url select post
+When: send body
+Then: the rsult be a token in json then it login unsucessful
+
+
+After providing the url and select the post and providing the body with out saving the result is error
+checking after saving the detaisl the result is error
+checking with out body the result is error
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+

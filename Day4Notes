@@ -1,0 +1,39 @@
+
+
+Hard drive are in tree model
+it contains only files and folders
+
+Hard drive saves all the files in the tree model 
+c: in window is called c volume
+The application used to see files is called file explorer in windows
+
+tree structure:
+
+
+			c:
+			/\
+      folder  folder
+      	/       \
+
+      folder    folder
+      /           /\
+      files      /  files
+                /
+              folder
+              /
+              file
+
+
+
+    Dos commands:
+    cd -- change directory
+
+    absolute path :C:\Users\RamyaSri\QA\MyQAFiles\HTML
+    Relative path:..\..\..\..\c
+
+
+
+
+
+
+

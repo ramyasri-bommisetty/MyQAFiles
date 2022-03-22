@@ -1,0 +1,21 @@
+Day1:
+
+
+
+Base diagram
+
+
+browsers,apps,programs
+===================
+o.s(operating system)
+=====================
+Ram||Hardware||harddrive
+
+
+
+
+Client server architecture:
+
+
+Aserver is the only one all the data that will store
+Client will contact server through internet

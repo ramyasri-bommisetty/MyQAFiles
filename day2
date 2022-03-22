@@ -1,0 +1,30 @@
+
+
+
+File explorer:
+where you can see/mange the files in the hard drive
+
+volumes : c,D etc
+
+Task manager: it is an operating system component.. It allows you each of the task overall perfomance....it opens all tasks happening (what websites/apps open).... it opens cpu,memory,disk and network 
+
+Task bar: we change the settings of task bar..
+
+control panel:
+---------------
+To make any changes to the o.s this tool we should use
+control pannel-->system-->advance settings-->
+environmentwindow-->environment variable--->system variable 
+
+                       new
+                       ||
+                       value
+                       ||
+                       path
+
+
+control panel > system
+control panel > security
+control panel > device manager
+control panel > user account
+control panel > environmental variable editing

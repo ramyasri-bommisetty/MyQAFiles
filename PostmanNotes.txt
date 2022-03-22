@@ -1,4 +1,60 @@
 
 
 
-  Postman
+  Postman:
+
+
+    --- Collection is a folder where  you can save related reequests
+
+    --  request
+
+            method     ---  url    params    
+            GET
+            POST
+
+
+    10.1.1.345  ---   www.wellsfargo.com
+
+       DNS   -- domain naming service
+
+     subnet -- 
+
+     http://<<domain name>>/<<path>?params   --- ipaddress or domain            
+
+
+     res-req collections:it is a folder name we created 
+     under this we created files...
+     we did add request and rename to create file after file is created we open reqres.in choose a method copy the url of file we want use and
+     In post man app choose the method according to the file we selected and past the url and save it 
+
+      List User:
+      this is a get method so we are asking server to give list of information of all user avaiable in this url https://reqres.in/api/users?page=1
+
+      Single user: This is a get method so we are asking server particularly one user information available in this url https://reqres.in/api?user=2
+	   
+	  create: This is a Post method we are sending a information to server throgh this url https://reqres.in/api/users and sending body to
+
+	  Single User not found : this is a get method so we are asking server that we want a information for this url https://reqres.in/api?users=23
+ 
+	  List (Resouce): This is a get method so we are asking server that we want information for this url https://reqres.in/api/unknown
+
+	  Single Resource Not found : This is a get method so we are asking server we want information for this url https://reqres.in/api/unknown/23
+
+	  update :This is a put method we are adding a resouce for this particulaar url https://reqres.in/api/unknown/23
+
+	  Udpate :this is a patcha method we are asking to modify for this url https://reqres.in/api/users/2
+
+	  Delete :this is a delete method we are asking server to delete from this url https://reqres.in/api/users/2
+
+	  Register Sucessfully : This is a post method we are sending a information to server through this url https://reqres.in/api/register we send body too
+
+	  Register unSucessfully : This is a post method we are sending a information to server through this url https://reqres.in/api/register we send body too
+
+	  Login Sucessfully : This is a post method we are sending a information to server through this url https://reqres.in/api/loginwe send body too
+
+	  Login unSucessfully : This is a post method we are sending a information to server through this url https://reqres.in/api/login we send body too
+
+	  Delayed response: This is a get method we are asking server information about delayed response through this server https://reqres.in/api/users?delay=3 
+
+
+     
