@@ -1,0 +1,20 @@
+
+
+  Test Driven   (TDD)
+
+  Behavior Driven (BDD)
+     given  something 
+     when  something happened
+     then the rsult
+
+
+
+
+     given a customer shops at store
+     when he buys 10lbs rice
+     then his bill shoudl be 20
+
+
+     given a customer shops at store
+     when he buys 5 10lbs rice
+     then his bill shoudl be 100

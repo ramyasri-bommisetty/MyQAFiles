@@ -1,0 +1,46 @@
+  
+Given the list user api is invoked												
+When we inspect the per_page and number of users in the respone
+Then the number of users should be equal to per_page value
+
+
+
+
+est cases:
+check if the page has more than 6 per page 
+check by giving more than 6 like 7,8
+check whether the output is in json file
+
+
+
+create template :
+check the authorized create template is sucessful or not
+check if it has body or not
+check if the output is in json
+
+
+----------------------------------------------
+
+output :
+After we gave url and selected post method click on send the resullt is template created succesfully
+the body is present and ouput is in json
+
+
+
+check the headers responses
+check the header title response number us present ot not
+check each response
+
+
+
+ouput:
+
+click on the header title which is present below the url 
+the header had 14 responses
+beside the header title the responses number is present
+checked the header responses 
+post ,content ,host ,user agent acceept,...............
+
+if u click on the response it will despriptipm some of them have body link is ther if u click on body the link is taking to the body
+
+
