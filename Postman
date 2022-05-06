@@ -1,0 +1,23 @@
+Postman 
+create,search, entitlements
+
+
+
+create        search      entitlements
+
+
+ create:
+
+  check when we send the url of the post method 
+  the reult is json and headers  is displayed 
+
+  
+ Given the create template is invoked with post method
+when we inspect by send key 
+Then the output should be list of users in JSON
+and click on the headers is displayed
+
+
+
+
+check the       

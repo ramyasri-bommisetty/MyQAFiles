@@ -1,0 +1,55 @@
+
+
+  java
+  JRE - java runtime env
+  JVM - java virtual machine
+
+
+
+
+    java code ----> compiler  -----> byteCode     saves in file
+
+     rules for saving file
+       extention has to be .java
+
+     .java given to compiler
+     
+     compiler creates .class file which contains bytecode
+
+     .class file given to java for running the code  
+
+
+    file1   -- java code file
+    file2   -- byte code file
+
+
+
+Operating System
+  command line 
+
+
+  <<commandName>> <<options>> <<argument>>
+
+  javac Welcome.java
+
+
+  the location where classes are present is called "classpath" or cp
+
+
+  to compile a java class without package
+  to run java class that has no package
+
+  to compile a java class into a specified folder
+  to compile a java class into a specified folder from anywhere in the file system
+
+  to run java class from anywhere in the file system     
+
+  to compile a packaged java class from anywhere in the file system
+  to run a packaged java class from anywhere in the file system
+
+    
+
+  samples
+
+   FirstProgram.java
+   SecondProgram.java 

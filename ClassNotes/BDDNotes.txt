@@ -14,7 +14,14 @@
      when he buys 10lbs rice
      then his bill shoudl be 20
 
-
+   
      given a customer shops at store
      when he buys 5 10lbs rice
      then his bill shoudl be 100
+
+
+
+     Service oriented architecture (SOA)
+        services/ web serives/ api / micro services
+
+            request   ---  rsponse

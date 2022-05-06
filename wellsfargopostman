@@ -44,3 +44,16 @@ post ,content ,host ,user agent acceept,...............
 if u click on the response it will despriptipm some of them have body link is ther if u click on body the link is taking to the body
 
 
+check the post man create template body
+check for the end result 
+check the results are in json
+
+output 
+click on the body 
+the bosy is in json 
+which has appliction id and login credentials to check while we are using the wellsfargo website to login
+if we give right credential and password then only we can login 
+and template id, name andkeys to create template and also it consists of receipient to add submit and all
+and after submitting it will display the user we have created the is json program for each and everything we used here
+
+

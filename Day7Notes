@@ -8,6 +8,8 @@ Databases:
 	SQL ,Relational model
 	No sql databass
 
+
+ 
 Testing process & methodologies
 	cpu-intel,AMD
 	i7,i5
@@ -16,6 +18,6 @@ Testing process & methodologies
 Two computers talking is called client- architecture model
 
 applications:
-Web applicaation --websites---http protocol and browser is ussed
-webseervices --non browsers--Http protoocl and non browsers
+Web applicaation --websites---http protocol and browser is used
+webservices --non browsers--Http protoocl and non browsers
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
